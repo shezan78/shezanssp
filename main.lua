@@ -2,7 +2,7 @@ if (not game:IsLoaded()) then
     game.Loaded:Wait();
 end
 
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-esp/main/ui.lua"))();
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/shezan78/shezanssp/main/main.lua"))();
 
 local PlaceId = game.PlaceId
 
