@@ -1,3 +1,7 @@
+--[[
+    Additional settings can be added if YOU KNOW WHAT YOUR DOING, DON'T BE STUPID
+]]
+
 if (not game:IsLoaded()) then
     game.Loaded:Wait();
 end
