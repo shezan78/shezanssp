@@ -1,3 +1,4 @@
+-- Just the gui for the cheat
 local game = game
 local Loaded = game.Loaded
 local CWait = game.Loaded.Wait
